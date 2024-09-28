@@ -1,6 +1,9 @@
 Problem Number: 641 
+
 Problem Name: Design Circular Deque
+
 Difficulty Tag: Medium
+
 Topics: LinkedList, Queue, Design
 
 Design your implementation of the circular double-ended queue (deque).
