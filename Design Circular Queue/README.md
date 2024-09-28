@@ -1,13 +1,13 @@
-### Problem Number: 641 <br>
-### Problem Name: Design Circular Deque <br>
-### Difficulty Tag: Medium <br>
-### Topics: LinkedList, Queue, Design <br>
+#### Problem Number: 641 <br>
+#### Problem Name: Design Circular Deque <br>
+#### Difficulty Tag: Medium <br>
+#### Topics: LinkedList, Queue, Design <br>
 
 Design your implementation of the circular double-ended queue (deque).
 
-Implement the MyCircularDeque class:
+##### Implement the MyCircularDeque class:
 
-MyCircularDeque(int k) Initializes the deque with a maximum size of k.
+- MyCircularDeque(int k) Initializes the deque with a maximum size of k.
 - boolean insertFront() Adds an item at the front of Deque. Returns true if the operation is successful, or false otherwise.
 - boolean insertLast() Adds an item at the rear of Deque. Returns true if the operation is successful, or false otherwise.
 - boolean deleteFront() Deletes an item from the front of Deque. Returns true if the operation is successful, or false otherwise.
